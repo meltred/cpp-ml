@@ -1,15 +1,20 @@
-# ML-ALGO in cpp 
+## ML Algorithm in C++
 
-## BUILD 
-# Linux
+#### Setup (Build)
+Linux
+
 arch:  
-``` sudo pacman -S cmake ```
+```bash
+sudo pacman -S cmake 
+```
 
 debian:
+```bash
+sudo apt install cmake 
+```
 
-``` sudo apt install cmake ```
+Run
 
-### RUN
-### ``` make ```
-
-
+```bash
+make 
+```
