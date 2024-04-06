@@ -1,5 +1,4 @@
-
-project(softmax-main)
+project(softmax)
 include_directories(lib)
-add_executable("softmax-main" "main.cpp" "softmax.cpp")
+add_executable("softmax" "main.cpp" "softmax.cpp")
 
